@@ -1,43 +1,39 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Sara Rose",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://avatars.githubusercontent.com/u/160562215?s=400&u=9e6ed710ee50dd7da1fb152cbc3cb7e207672a74&v=4",
+    "email": "lemondr0p@proton.me",
+    "website": "https://ZeroDayZest.github.io",
+    "summary": "I am studying for a B.S. in Cybersecurity and Informtion Assurance. I expect to graduate in Fall, 2024.",
+    "location": { "city": "Tampa", "countryCode": "USA", "region": "Florida" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Sara", "url": "http://ZeroDayZest.github.io" },
+      { "network": "linkedin", "username": "Sara Rose", "url": "http://linkedin.com/in/sararose172/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Ethical Hacking" },
+    { "name": "Digital Forensics" },
+    { "name": "Investigation" },
+    { "name": "Penetration Testing" },
+    { "name": "Malware Analysis" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Licensing",
+      "keywords": [ "Locksmith", "Private Investigation", "Private Personal Security" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Kali Linux", "Git/GitHub", "Parrot OS", "Windows" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Western Governors University",
+      "area": "B.S in CYbersecurity and Information Assurance (expected Fall, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,8 +41,8 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Student",
+      "position": "",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
