@@ -6,7 +6,7 @@
     "email": "lemondr0p@proton.me",
     "phone": "352-634-5818",
     "website": "https://ZeroDayZest.github.io",
-    "summary": "I am studying for a B.S. in Cybersecurity and Information Assurance at Western Governos University. I expect to graduate in Fall, 2024.",
+    "summary": "I am studying for a B.S. in Cybersecurity and Information Assurance at Western Governors University. I expect to graduate in Fall, 2024.",
     "location": { "address": "", "postalCode": "32801", "city": "Orlando", "countryCode": "USA", "region": "Florida" },
     "profiles": [
           { "network": "github", "username": "ZeroDayZest", "url": "http://github.com/ZeroDayZest" },
@@ -14,9 +14,9 @@
         ]
   },
   "interests": [
-    { "name": "Digital Forensics and Incident Response" },
-    { "name": "Investigation and Threat Hunting" },
-    { "name": "Intrusion Detection and Prevention" },
+    { "name": "Digital Forensics & Incident Response" },
+    { "name": "Investigation & Threat Hunting" },
+    { "name": "Intrusion Detection & Prevention" },
     { "name": "Network Analysis" },
     { "name": "Homelab Developement" }
   ],
@@ -70,7 +70,7 @@
                 "be warned about the dangers of scams, phishing, and password management. Provide free",
                 "troubleshooting services for cellphones, Internet/Network, laptop and computer repairs."
               ]
-      },     
+      },
       {
         "organization": "Save the Manatee Club ",
         "startDate": "2023-05-27",
