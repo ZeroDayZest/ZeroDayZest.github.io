@@ -20,6 +20,9 @@
     { "name": "Network Analysis" },
     { "name": "Homelab Developement" }
   ],
+  "summary": [
+      { "name": "Driven professional with a proficient background in private security, investigation, and hairstyling, transitioning to cybersecurity. Skilled in forensic investigation and technical documentation, adept at conducting comprehensive analyses of compromised systems to identify root causes and assess impacts. Proactively develops incident response plans to uphold stringent security standards. Experienced in managing client expectations, negotiating solutions, and resolving conflicts gained through 15 years in hairstyling. Known for exceptional people-facing soft skills, adept at building rapport and communicating effectively to ensure client satisfaction. Eager to apply evolving skills in digital forensics and incident response to protect individuals, businesses, and assets from cyber threats." }
+    ],
   "skills": [
     {
       "name": "Languages and Frameworks",
@@ -51,36 +54,27 @@
       "startDate": "2014-11-01",
       "endDate": "2023-07-01",
       "summary": "Award Winning stylist and published artist",
-      "highlights": [
-      "Cultivated a loyal client base through exceptional client relations skills, ensuring high",
-      "satisfaction and repeat business.", 
-      "Managed all aspects of the business independently, including scheduling, client appointments,", 
-      "and inventory management, maintaining efficiency and organization."
+      "highlights": [ "Cultivated a loyal client base through exceptional client relations skills, ensuring high, satisfaction and repeat business. Managed all aspects of the business independently, including scheduling, client appointments, and inventory management, maintaining efficiency and organization."
       ]
     }
   ],
   "volunteer": [
       {
-        "organization": "Florida Public Library System",
+        "organization":"Florida Public Library System",
         "startDate": "2023-11-01",
         "endDate": "Present",
         "summary": "Community education and outreach",
         "highlights": [
-                "Created an educational program to help elderly members of the community",
-                "be warned about the dangers of scams, phishing, and password management. Provide free",
-                "troubleshooting services for cellphones, Internet/Network, laptop and computer repairs."
+                "Created an educational program to help elderly members of the community be warned about the dangers of scams, phishing, and password management. Provide free troubleshooting services for cellphones, Internet/Network, laptop and computer repairs."
               ]
       },
       {
-        "organization": "Save the Manatee Club ",
+        "organization":"Save the Manatee Club ",
         "startDate": "2023-05-27",
         "endDate": "Present",
         "summary": "Restoring native eelgrass meadows providing a crucial food source for the West Indian Manatee.",
         "highlights": [
-              "Volunteers play a critical role in educating the public about manatee conservation",
-              "and environmental stewardship. This could involve giving presentations, leading guided tours,",
-              "or participating in outreach events to raise awareness about manatee biology, conservation challenges,",
-              "and how individuals can help protect these gentle creatures."
+              "Volunteers play a critical role in educating the public about manatee conservation and environmental stewardship. This could involve giving presentations, leading guided tours, or participating in outreach events to raise awareness about manatee biology, conservation challenges, and how individuals can help protect these gentle creatures."
         ]
       }
     ],
