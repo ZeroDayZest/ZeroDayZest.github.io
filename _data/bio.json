@@ -60,7 +60,7 @@
   ],
   "volunteer": [
       {
-        "organization":"Florida Public Library System",
+        "organization": "Florida Public Library System",
         "startDate": "2023-11-01",
         "endDate": "Present",
         "summary": "Community education and outreach",
@@ -69,7 +69,7 @@
               ]
       },
       {
-        "organization":"Save the Manatee Club ",
+        "organization": "Save the Manatee Club ",
         "startDate": "2023-05-27",
         "endDate": "Present",
         "summary": "Restoring native eelgrass meadows providing a crucial food source for the West Indian Manatee.",
