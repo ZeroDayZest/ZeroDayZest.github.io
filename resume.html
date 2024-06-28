@@ -51,6 +51,24 @@ layout: home
       </div>
     </div>
 
+    {% if <site class="data bio summary"></site> %}
+    <div class="row pt-4 align-items-center">
+      <div class="col-lg-3">
+        <h1 class="display-6 text-start m-0"><Summary></Summary></h1>
+      </div>
+      <div class="col-lg-9">
+        {% for entry in <site class="data bio summary"></site> %}
+          <p class="m-0">
+            <b>{{ entry.name }}:</b>
+              {% for keyword in entry.keywords %}
+                {{ keyword }}{% if forloop.last != true %}, {% endif %}
+              {% endfor %}
+          </p>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+    
     {% if site.data.bio.skills %}
     <div class="row pt-4 align-items-center">
       <div class="col-lg-3">
