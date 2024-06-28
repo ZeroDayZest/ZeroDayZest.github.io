@@ -3,33 +3,35 @@
     "name": "Sara Rose",
     "label": "Student",
     "picture": "https://github.com/ZeroDayZest.png",
-    "email": "Sros585@wgu.edu.edu",
+    "email": "lemondr0p@proton.me",
     "phone": "352-634-5818",
     "website": "https://ZeroDayZest.github.io",
     "summary": "I am studying for a B.S. in Cybersecurity and Information Assurance at Western Governos University. I expect to graduate in Fall, 2024.",
     "location": { "address": "", "postalCode": "32801", "city": "Orlando", "countryCode": "USA", "region": "Florida" },
     "profiles": [
-      { "network": "github", "username": "ZeroDayZest", "url": "http://github.com/ZeroDayZest" },
-      { "network": "linkedin", "username": "SaraRose", "url": "www.linkedin.com/in/sararose172" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
-    ]
+          { "network": "github", "username": "ZeroDayZest", "url": "http://github.com/ZeroDayZest" },
+          { "network": "linkedin", "username": "SaraRose", "url": "http://linkedin.com/in/sararose172" }
+        ]
   },
   "interests": [
     { "name": "Digital Forensics and Incident Response" },
     { "name": "Investigation and Threat Hunting" },
     { "name": "Intrusion Detection and Prevention" },
-    { "name": "Malware Analysis" },
+    { "name": "Network Analysis" },
     { "name": "Homelab Developement" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "SQL", "Python", "Ruby", "Bash/Shell" ]
+      "keywords": [ "SQL", "Python", "CSS", "HTML", "Bash/Shell Scripting"  ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Kali Linux", "Git/GitHub", "Windows OS", "Active Directory" ]
+      "name": "Toolsets",
+      "keywords": [ "Nmap", "Metasploit", "GitHub", "Wireshark", "Splunk", "Microsfot Azure", "Amazon AWS" ]
+    },
+    {
+      "name": "Operating Systems",
+      "keywords": [ "MacOS", "Windows", "Kali Linux", "Virtual Machines", "Active Directory" ]
     }
   ],
   "education": [
@@ -43,71 +45,65 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Blonde Elements",
+      "position": "Independant Contractor",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2014-11-01",
+      "endDate": "2023-07-01",
+      "summary": "Award Winning stylist and published artist",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+      "Cultivated a loyal client base through exceptional client relations skills, ensuring high",
+      "satisfaction and repeat business.", 
+      "Managed all aspects of the business independently, including scheduling, client appointments,", 
+      "and inventory management, maintaining efficiency and organization."
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
+      {
+        "organization": "Florida Public Library System",
+        "startDate": "2023-11-01",
+        "endDate": "Present",
+        "summary": "Community education and outreach",
+        "highlights": [
+                "Created an educational program to help elderly members of the community",
+                "be warned about the dangers of scams, phishing, and password management. Provide free",
+                "troubleshooting services for cellphones, Internet/Network, laptop and computer repairs."
+              ]
+      },     
+      {
+        "organization": "Save the Manatee Club ",
+        "startDate": "2023-05-27",
+        "endDate": "Present",
+        "summary": "Restoring native eelgrass meadows providing a crucial food source for the West Indian Manatee.",
+        "highlights": [
+              "Volunteers play a critical role in educating the public about manatee conservation",
+              "and environmental stewardship. This could involve giving presentations, leading guided tours,",
+              "or participating in outreach events to raise awareness about manatee biology, conservation challenges,",
+              "and how individuals can help protect these gentle creatures."
+        ]
+      }
+    ],
+  "Professional Associations": [
+      {
+        "title": "Member of WiCys"
+      },
+      {
+        "title": "Member of ISC2"
+      },
+      {
+        "title": "FALI- Florida Association of Licensed Investigators"
+      },
+      {
+        "title": "ISSA- Information Systems Security Association"
+      },
+      {
+        "title": "WGU Cyber Club"
+      },
+      {
+        "title": "WGU Women in Tech Club"
+      }
+    ],
   "references": [
     {
       "name": "Available upon request"
