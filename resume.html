@@ -64,24 +64,22 @@ layout: home
       {% endfor %}
     </div>
   </div>
-  {% endif %}
   {% if site.data.bio.skills %}
   <div class="row pt-4 align-items-center">
     <div class="col-lg-3">
       <h1 class="display-6 text-start m-0">Skills</h1>
     </div>
     <div class="col-lg-9">
-      {% for skill in site.data.bio.skills %}
+      {% for entry in site.data.bio.skills %}
         <p class="m-0">
-          {{ skill.name }}:
-            {% for keyword in skill.keywords %}
+          <b>{{ entry.name }}:</b>
+            {% for keyword in entry.keywords %}
               {{ keyword }}{% if forloop.last != true %}, {% endif %}
             {% endfor %}
         </p>
       {% endfor %}
     </div>
   </div>
-  {% endif %}
 
     {% if site.data.bio.education %}
     <div class="row pt-4 align-items-start">
